@@ -8,3 +8,4 @@ Docker details check
 At Good flow
 Sentence to latest
 Ultimate check once
+Thirteen testing at visudo file altered
