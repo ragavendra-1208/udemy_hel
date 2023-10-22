@@ -14,3 +14,4 @@ Wonderfully done Ansible war
 Hub pusing the code .... 
 Jessica queen
 Asthram challenge
+Excitement Last video - Added the rolling update
